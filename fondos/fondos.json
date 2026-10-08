@@ -1,0 +1,617 @@
+{
+ "542": {
+  "aficion": [
+   {
+    "src": "/fondos/542/aficion-1.webp",
+    "ancho": 594,
+    "alto": 336
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/542/emblema-1.webp",
+    "ancho": 716,
+    "alto": 428
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/542/estadio-1.webp",
+    "ancho": 738,
+    "alto": 270
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/542/silueta.png",
+    "ancho": 186,
+    "alto": 52
+   }
+  ]
+ },
+ "531": {
+  "aficion": [
+   {
+    "src": "/fondos/531/aficion-1.webp",
+    "ancho": 597,
+    "alto": 335
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/531/emblema-1.webp",
+    "ancho": 400,
+    "alto": 400
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/531/estadio-1.webp",
+    "ancho": 1600,
+    "alto": 1018
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/531/silueta.png",
+    "ancho": 184,
+    "alto": 62
+   }
+  ]
+ },
+ "530": {
+  "aficion": [
+   {
+    "src": "/fondos/530/aficion-1.webp",
+    "ancho": 1472,
+    "alto": 828
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/530/emblema-1.webp",
+    "ancho": 183,
+    "alto": 275
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/530/estadio-1.webp",
+    "ancho": 1600,
+    "alto": 1099
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/530/silueta.png",
+    "ancho": 187,
+    "alto": 51
+   }
+  ]
+ },
+ "529": {
+  "estadio": [
+   {
+    "src": "/fondos/529/estadio-1.webp",
+    "ancho": 1200,
+    "alto": 750
+   }
+  ],
+  "aficion": [
+   {
+    "src": "/fondos/529/aficion-1.webp",
+    "ancho": 1600,
+    "alto": 1067
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/529/emblema-1.webp",
+    "ancho": 554,
+    "alto": 554
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/529/silueta.png",
+    "ancho": 181,
+    "alto": 65
+   }
+  ]
+ },
+ "543": {
+  "aficion": [
+   {
+    "src": "/fondos/543/aficion-1.webp",
+    "ancho": 480,
+    "alto": 638
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/543/estadio-1.webp",
+    "ancho": 399,
+    "alto": 501
+   },
+   {
+    "src": "/fondos/543/estadio-2.webp",
+    "ancho": 547,
+    "alto": 365
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/543/emblema-1.webp",
+    "ancho": 399,
+    "alto": 501
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/543/silueta.png",
+    "ancho": 188,
+    "alto": 47
+   }
+  ]
+ },
+ "538": {
+  "aficion": [
+   {
+    "src": "/fondos/538/aficion-1.webp",
+    "ancho": 638,
+    "alto": 480
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/538/estadio-1.webp",
+    "ancho": 738,
+    "alto": 414
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/538/emblema-1.webp",
+    "ancho": 494,
+    "alto": 619
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/538/silueta.png",
+    "ancho": 183,
+    "alto": 57
+   }
+  ]
+ },
+ "544": {
+  "aficion": [
+   {
+    "src": "/fondos/544/aficion-1.webp",
+    "ancho": 738,
+    "alto": 414
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/544/estadio-1.webp",
+    "ancho": 501,
+    "alto": 501
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/544/emblema-1.webp",
+    "ancho": 592,
+    "alto": 337
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/544/silueta.png",
+    "ancho": 166,
+    "alto": 47
+   }
+  ]
+ },
+ "797": {
+  "aficion": [
+   {
+    "src": "/fondos/797/aficion-1.webp",
+    "ancho": 704,
+    "alto": 435
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/797/estadio-1.webp",
+    "ancho": 733,
+    "alto": 417
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/797/emblema-1.webp",
+    "ancho": 638,
+    "alto": 480
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/797/silueta.png",
+    "ancho": 184,
+    "alto": 62
+   }
+  ]
+ },
+ "540": {
+  "aficion": [
+   {
+    "src": "/fondos/540/aficion-1.webp",
+    "ancho": 678,
+    "alto": 452
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/540/emblema-1.webp",
+    "ancho": 638,
+    "alto": 480
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/540/estadio-1.webp",
+    "ancho": 738,
+    "alto": 306
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/540/silueta.png",
+    "ancho": 182,
+    "alto": 64
+   }
+  ]
+ },
+ "546": {
+  "aficion": [
+   {
+    "src": "/fondos/546/aficion-1.webp",
+    "ancho": 716,
+    "alto": 428
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/546/emblema-1.webp",
+    "ancho": 330,
+    "alto": 203
+   },
+   {
+    "src": "/fondos/546/emblema-2.webp",
+    "ancho": 364,
+    "alto": 549
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/546/estadio-1.webp",
+    "ancho": 738,
+    "alto": 414
+   },
+   {
+    "src": "/fondos/546/estadio-2.webp",
+    "ancho": 1312,
+    "alto": 860
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/546/silueta.png",
+    "ancho": 186,
+    "alto": 48
+   }
+  ]
+ },
+ "539": {
+  "estadio": [
+   {
+    "src": "/fondos/539/estadio-1.webp",
+    "ancho": 547,
+    "alto": 365
+   }
+  ],
+  "aficion": [
+   {
+    "src": "/fondos/539/aficion-1.webp",
+    "ancho": 738,
+    "alto": 414
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/539/emblema-1.webp",
+    "ancho": 397,
+    "alto": 771
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/539/silueta.png",
+    "ancho": 185,
+    "alto": 58
+   }
+  ]
+ },
+ "541": {
+  "aficion": [
+   {
+    "src": "/fondos/541/aficion-1.webp",
+    "ancho": 738,
+    "alto": 399
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/541/estadio-1.webp",
+    "ancho": 360,
+    "alto": 448
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/541/emblema-1.webp",
+    "ancho": 315,
+    "alto": 160
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/541/silueta.png",
+    "ancho": 186,
+    "alto": 63
+   }
+  ]
+ },
+ "535": {
+  "aficion": [
+   {
+    "src": "/fondos/535/aficion-1.webp",
+    "ancho": 678,
+    "alto": 452
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/535/emblema-1.webp",
+    "ancho": 480,
+    "alto": 640
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/535/estadio-1.webp",
+    "ancho": 250,
+    "alto": 141
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/535/silueta.png",
+    "ancho": 186,
+    "alto": 53
+   }
+  ]
+ },
+ "727": {
+  "aficion": [
+   {
+    "src": "/fondos/727/aficion-1.webp",
+    "ancho": 547,
+    "alto": 365
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/727/estadio-1.webp",
+    "ancho": 597,
+    "alto": 335
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/727/emblema-1.webp",
+    "ancho": 452,
+    "alto": 678
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/727/silueta.png",
+    "ancho": 183,
+    "alto": 62
+   }
+  ]
+ },
+ "4665": {
+  "aficion": [
+   {
+    "src": "/fondos/4665/aficion-1.webp",
+    "ancho": 647,
+    "alto": 473
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/4665/emblema-1.webp",
+    "ancho": 728,
+    "alto": 420
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/4665/estadio-1.webp",
+    "ancho": 554,
+    "alto": 554
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/4665/silueta.png",
+    "ancho": 184,
+    "alto": 51
+   }
+  ]
+ },
+ "728": {
+  "emblema": [
+   {
+    "src": "/fondos/728/emblema-1.webp",
+    "ancho": 447,
+    "alto": 447
+   }
+  ],
+  "aficion": [
+   {
+    "src": "/fondos/728/aficion-1.webp",
+    "ancho": 638,
+    "alto": 480
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/728/estadio-1.webp",
+    "ancho": 702,
+    "alto": 437
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/728/silueta.png",
+    "ancho": 185,
+    "alto": 56
+   }
+  ]
+ },
+ "548": {
+  "aficion": [
+   {
+    "src": "/fondos/548/aficion-1.webp",
+    "ancho": 597,
+    "alto": 335
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/548/emblema-1.webp",
+    "ancho": 584,
+    "alto": 342
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/548/estadio-1.webp",
+    "ancho": 738,
+    "alto": 414
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/548/silueta.png",
+    "ancho": 186,
+    "alto": 57
+   }
+  ]
+ },
+ "536": {
+  "aficion": [
+   {
+    "src": "/fondos/536/aficion-1.webp",
+    "ancho": 738,
+    "alto": 414
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/536/emblema-1.webp",
+    "ancho": 317,
+    "alto": 630
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/536/estadio-1.webp",
+    "ancho": 597,
+    "alto": 335
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/536/silueta.png",
+    "ancho": 182,
+    "alto": 58
+   }
+  ]
+ },
+ "532": {
+  "aficion": [
+   {
+    "src": "/fondos/532/aficion-1.webp",
+    "ancho": 738,
+    "alto": 384
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/532/estadio-1.webp",
+    "ancho": 330,
+    "alto": 220
+   }
+  ],
+  "emblema": [
+   {
+    "src": "/fondos/532/emblema-1.webp",
+    "ancho": 738,
+    "alto": 414
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/532/silueta.png",
+    "ancho": 183,
+    "alto": 79
+   }
+  ]
+ },
+ "533": {
+  "emblema": [
+   {
+    "src": "/fondos/533/emblema-1.webp",
+    "ancho": 693,
+    "alto": 442
+   }
+  ],
+  "aficion": [
+   {
+    "src": "/fondos/533/aficion-1.webp",
+    "ancho": 678,
+    "alto": 452
+   }
+  ],
+  "estadio": [
+   {
+    "src": "/fondos/533/estadio-1.webp",
+    "ancho": 329,
+    "alto": 186
+   }
+  ],
+  "silueta": [
+   {
+    "src": "/fondos/533/silueta.png",
+    "ancho": 185,
+    "alto": 81
+   }
+  ]
+ }
+}

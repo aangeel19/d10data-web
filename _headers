@@ -1,0 +1,9 @@
+# Cabeceras para Cloudflare Pages (lo mismo que hace publicar/servidor.py en local)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+/*
+  Cache-Control: no-cache
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=()

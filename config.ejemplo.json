@@ -1,0 +1,5 @@
+{
+  "_leeme": "Copia este fichero como config.json en web_publica/ y pon los datos de tu proyecto de Supabase (Project Settings > API). La clave es la PUBLICA (anon o publishable), nunca la service_role. Sin config.json la web funciona sin cuentas.",
+  "supabaseUrl": "https://PEGA_AQUI_TU_PROYECTO.supabase.co",
+  "supabaseClavePublica": "PEGA_AQUI_LA_CLAVE_PUBLICA"
+}
