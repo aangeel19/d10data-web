@@ -1,0 +1,11 @@
+// Despliegue de D10 en Cloudflare Workers (solo ficheros estáticos, sin código de servidor).
+// "single-page-application": cualquier ruta que no sea un fichero (/equipo/546, /cuenta…) devuelve index.html
+// y la resuelve React Router. Las cabeceras de caché y seguridad salen de _headers.
+{
+  "name": "d10data-web",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "single-page-application"
+  }
+}
