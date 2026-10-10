@@ -55,3 +55,14 @@ self.addEventListener("fetch", (e) => {
     e.respondWith(cachePrimero(req));
   }
 });
+
+// Avisos de goles (10 oct 2026): al tocar la notificación, abre (o enfoca) la web en el partido.
+self.addEventListener("notificationclick", (e) => {
+  e.notification.close();
+  const url = e.notification.data?.url || "/";
+  e.waitUntil((async () => {
+    const abiertas = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+    for (const c of abiertas) if ("focus" in c) { await c.navigate(url).catch(() => {}); return c.focus(); }
+    return self.clients.openWindow(url);
+  })());
+});
