@@ -3,7 +3,7 @@
 //   - /datos/*.json y la página: red primero (siempre lo último) y, si no hay red, lo último guardado.
 //   - iconos, escudos y fondos: caché primero, se van guardando según se ven.
 // No toca nada de otros dominios (Supabase, Google): las cuentas siempre van por red.
-const VERSION = "d10-v1";
+const VERSION = "d10-v2";
 const ESTATICO = `${VERSION}-estatico`;
 const DATOS = `${VERSION}-datos`;
 
@@ -55,6 +55,24 @@ self.addEventListener("fetch", (e) => {
     e.respondWith(cachePrimero(req));
   }
 });
+
+// Notificaciones push (11 oct 2026): las manda el Worker d10-directo cifradas (utilidades/push.ts). Si la web está
+// abierta y a la vista no se enseña nada: ya sale el aviso dentro de la página, con su sonido.
+self.addEventListener("push", (e) => {
+  let d = {};
+  try { d = e.data ? e.data.json() : {}; } catch { d = { titulo: "D10", texto: e.data?.text() ?? "" }; }
+  e.waitUntil((async () => {
+    const abiertas = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+    if (abiertas.some((c) => c.visibilityState === "visible" && c.focused !== false)) return;
+    await self.registration.showNotification(d.titulo || "D10", {
+      body: d.texto || "", icon: "/icono-192.png", badge: "/icono-192.png", tag: d.tag || undefined,
+      data: { url: d.url || "/" }, vibrate: d.tipo === "gol" ? [150, 60, 150] : [80], renotify: !!d.tag,
+    });
+  })());
+});
+
+// Si el navegador renueva la suscripción por su cuenta, la próxima vez que se abra la web se vuelve a guardar
+// (AvisosDirecto → actualizarFiltroPush); aquí no hay sesión ni Supabase.
 
 // Avisos de goles (10 oct 2026): al tocar la notificación, abre (o enfoca) la web en el partido.
 self.addEventListener("notificationclick", (e) => {
