@@ -13,13 +13,6 @@
     "ancho": 1600,
     "alto": 588
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/542/silueta.png",
-    "ancho": 186,
-    "alto": 52
-   }
   ]
  },
  "531": {
@@ -35,13 +28,6 @@
     "src": "/fondos/531/estadio-libre.webp",
     "ancho": 1600,
     "alto": 1018
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/531/silueta.png",
-    "ancho": 184,
-    "alto": 62
    }
   ]
  },
@@ -59,13 +45,6 @@
     "ancho": 1600,
     "alto": 1099
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/530/silueta.png",
-    "ancho": 187,
-    "alto": 51
-   }
   ]
  },
  "529": {
@@ -81,13 +60,6 @@
     "src": "/fondos/529/emblema-1.webp",
     "ancho": 554,
     "alto": 554
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/529/silueta.png",
-    "ancho": 181,
-    "alto": 65
    }
   ]
  },
@@ -105,13 +77,6 @@
     "ancho": 399,
     "alto": 501
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/543/silueta.png",
-    "ancho": 188,
-    "alto": 47
-   }
   ]
  },
  "538": {
@@ -127,13 +92,6 @@
     "src": "/fondos/538/emblema-1.webp",
     "ancho": 494,
     "alto": 619
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/538/silueta.png",
-    "ancho": 183,
-    "alto": 57
    }
   ]
  },
@@ -151,13 +109,6 @@
     "ancho": 592,
     "alto": 337
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/544/silueta.png",
-    "ancho": 166,
-    "alto": 47
-   }
   ]
  },
  "797": {
@@ -174,13 +125,6 @@
     "ancho": 638,
     "alto": 480
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/797/silueta.png",
-    "ancho": 184,
-    "alto": 62
-   }
   ]
  },
  "540": {
@@ -196,13 +140,6 @@
     "src": "/fondos/540/estadio-libre.webp",
     "ancho": 1600,
     "alto": 1067
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/540/silueta.png",
-    "ancho": 182,
-    "alto": 64
    }
   ]
  },
@@ -225,13 +162,6 @@
     "ancho": 1600,
     "alto": 1200
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/546/silueta.png",
-    "ancho": 186,
-    "alto": 48
-   }
   ]
  },
  "539": {
@@ -247,13 +177,6 @@
     "src": "/fondos/539/emblema-1.webp",
     "ancho": 397,
     "alto": 771
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/539/silueta.png",
-    "ancho": 185,
-    "alto": 58
    }
   ]
  },
@@ -271,13 +194,6 @@
     "ancho": 315,
     "alto": 160
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/541/silueta.png",
-    "ancho": 186,
-    "alto": 63
-   }
   ]
  },
  "535": {
@@ -293,13 +209,6 @@
     "src": "/fondos/535/estadio-libre.webp",
     "ancho": 1600,
     "alto": 900
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/535/silueta.png",
-    "ancho": 186,
-    "alto": 53
    }
   ]
  },
@@ -317,13 +226,6 @@
     "ancho": 452,
     "alto": 678
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/727/silueta.png",
-    "ancho": 183,
-    "alto": 62
-   }
   ]
  },
  "4665": {
@@ -339,13 +241,6 @@
     "src": "/fondos/4665/estadio-libre.webp",
     "ancho": 1600,
     "alto": 1062
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/4665/silueta.png",
-    "ancho": 184,
-    "alto": 51
    }
   ]
  },
@@ -363,13 +258,6 @@
     "ancho": 1600,
     "alto": 958
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/728/silueta.png",
-    "ancho": 185,
-    "alto": 56
-   }
   ]
  },
  "548": {
@@ -385,13 +273,6 @@
     "src": "/fondos/548/estadio-libre.webp",
     "ancho": 1600,
     "alto": 1200
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/548/silueta.png",
-    "ancho": 186,
-    "alto": 57
    }
   ]
  },
@@ -409,13 +290,6 @@
     "ancho": 1600,
     "alto": 1200
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/536/silueta.png",
-    "ancho": 182,
-    "alto": 58
-   }
   ]
  },
  "532": {
@@ -432,13 +306,6 @@
     "ancho": 738,
     "alto": 414
    }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/532/silueta.png",
-    "ancho": 183,
-    "alto": 79
-   }
   ]
  },
  "533": {
@@ -454,13 +321,6 @@
     "src": "/fondos/533/estadio-libre.webp",
     "ancho": 1600,
     "alto": 900
-   }
-  ],
-  "silueta": [
-   {
-    "src": "/fondos/533/silueta.png",
-    "ancho": 185,
-    "alto": 81
    }
   ]
  }
