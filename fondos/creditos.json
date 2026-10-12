@@ -1,0 +1,182 @@
+[
+ {
+  "equipo_id": 542,
+  "equipo": "Alaves",
+  "estadio": "Estadio de Mendizorroza",
+  "autor": "MarcosMarinM",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Mendizorrotza_diciembre_2021.jpg"
+ },
+ {
+  "equipo_id": 531,
+  "equipo": "Athletic Club",
+  "estadio": "San Mamés Barria",
+  "autor": "Marco Almbauer",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Panorama_im_San_Mam%C3%A9s_Stadion.jpg"
+ },
+ {
+  "equipo_id": 530,
+  "equipo": "Atletico Madrid",
+  "estadio": "Estádio Cívitas Metropolitano",
+  "autor": "Elwin594",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Atleti_vs_Villarreal_-_September_2025.jpg"
+ },
+ {
+  "equipo_id": 529,
+  "equipo": "Barcelona",
+  "estadio": "Spotify Camp Nou",
+  "autor": "Oh-Barcelona.com from Barcelona, Spain",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Camp_Nou_aerial.jpg"
+ },
+ {
+  "equipo_id": 538,
+  "equipo": "Celta Vigo",
+  "estadio": "Estadio Abanca-Balaídos",
+  "autor": "BandidoBanderas",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg"
+ },
+ {
+  "equipo_id": 544,
+  "equipo": "Deportivo La Coruna",
+  "estadio": "Estadio Abanca-Riazor",
+  "autor": "Lisímaco de Egipto",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadioriazor2023.jpg"
+ },
+ {
+  "equipo_id": 797,
+  "equipo": "Elche",
+  "estadio": "Estadio Manuel Martínez Valero",
+  "autor": "Magicloren",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg"
+ },
+ {
+  "equipo_id": 540,
+  "equipo": "Espanyol",
+  "estadio": "Stage Front Stadium",
+  "autor": "RCD Espanyol de Barcelona",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stage_Front_Stadium.jpg"
+ },
+ {
+  "equipo_id": 546,
+  "equipo": "Getafe",
+  "estadio": "Estadio Coliseum",
+  "autor": "Miguelazo84",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Getafe0-0Lega2018.jpg"
+ },
+ {
+  "equipo_id": 539,
+  "equipo": "Levante",
+  "estadio": "Estadio Ciudad de Valencia",
+  "autor": "Francesc Fort",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg"
+ },
+ {
+  "equipo_id": 535,
+  "equipo": "Malaga",
+  "estadio": "Estadio La Rosaleda",
+  "autor": "Meloptido",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:IMG-20220228-WA0055.jpg"
+ },
+ {
+  "equipo_id": 727,
+  "equipo": "Osasuna",
+  "estadio": "Estadio El Sadar",
+  "autor": "Visma17",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_El_Sadar.jpg"
+ },
+ {
+  "equipo_id": 4665,
+  "equipo": "Racing Santander",
+  "estadio": "Campos de Sport de El Sardinero",
+  "autor": "Edubermu99",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Fotograf%C3%ADa_Eduardo_Berm%C3%BAdez_para_los_Campos_de_Sport_de_El_Sardinero.jpg"
+ },
+ {
+  "equipo_id": 728,
+  "equipo": "Rayo Vallecano",
+  "estadio": "Estadio de Vallecas",
+  "autor": "K3T0",
+  "licencia": "CC BY 2.5 es",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.5/es/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_de_Vallecas.jpg"
+ },
+ {
+  "equipo_id": 543,
+  "equipo": "Real Betis",
+  "estadio": "Estadio Benito Villamarín",
+  "autor": "Maesi64",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_Benito_Villamar%C3%ADn_-_Sevilla_-_01.jpg"
+ },
+ {
+  "equipo_id": 541,
+  "equipo": "Real Madrid",
+  "estadio": "Estadio Santiago Bernabéu",
+  "autor": "Zoser",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg"
+ },
+ {
+  "equipo_id": 548,
+  "equipo": "Real Sociedad",
+  "estadio": "Reale Arena",
+  "autor": "Bhgh543bgf",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Anoeta_estadioa_31,_Donostia,_Gipuzkoa,_Euskal_Herria.jpg"
+ },
+ {
+  "equipo_id": 536,
+  "equipo": "Sevilla",
+  "estadio": "Estadio Ramón Sánchez Pizjuán",
+  "autor": "Niels98",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_(Sevilla_FC).jpg"
+ },
+ {
+  "equipo_id": 532,
+  "equipo": "Valencia",
+  "estadio": "Estadio de Mestalla",
+  "autor": "Anidae",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Mestalla_antes_del_partido_Valencia-Barcelona_LaLiga_2023-2024.jpg"
+ },
+ {
+  "equipo_id": 533,
+  "equipo": "Villarreal",
+  "estadio": "Estadio de la Cerámica",
+  "autor": "Frank94Rock",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:ESTADIO3.jpg"
+ }
+]

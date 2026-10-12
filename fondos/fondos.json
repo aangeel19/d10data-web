@@ -1,12 +1,5 @@
 {
  "542": {
-  "aficion": [
-   {
-    "src": "/fondos/542/aficion-1.webp",
-    "ancho": 594,
-    "alto": 336
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/542/emblema-1.webp",
@@ -16,9 +9,9 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/542/estadio-1.webp",
-    "ancho": 738,
-    "alto": 270
+    "src": "/fondos/542/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 588
    }
   ],
   "silueta": [
@@ -30,13 +23,6 @@
   ]
  },
  "531": {
-  "aficion": [
-   {
-    "src": "/fondos/531/aficion-1.webp",
-    "ancho": 597,
-    "alto": 335
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/531/emblema-1.webp",
@@ -46,7 +32,7 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/531/estadio-1.webp",
+    "src": "/fondos/531/estadio-libre.webp",
     "ancho": 1600,
     "alto": 1018
    }
@@ -60,13 +46,6 @@
   ]
  },
  "530": {
-  "aficion": [
-   {
-    "src": "/fondos/530/aficion-1.webp",
-    "ancho": 1472,
-    "alto": 828
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/530/emblema-1.webp",
@@ -76,7 +55,7 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/530/estadio-1.webp",
+    "src": "/fondos/530/estadio-libre.webp",
     "ancho": 1600,
     "alto": 1099
    }
@@ -92,16 +71,9 @@
  "529": {
   "estadio": [
    {
-    "src": "/fondos/529/estadio-1.webp",
-    "ancho": 1200,
-    "alto": 750
-   }
-  ],
-  "aficion": [
-   {
-    "src": "/fondos/529/aficion-1.webp",
+    "src": "/fondos/529/estadio-libre.webp",
     "ancho": 1600,
-    "alto": 1067
+    "alto": 1202
    }
   ],
   "emblema": [
@@ -120,23 +92,11 @@
   ]
  },
  "543": {
-  "aficion": [
-   {
-    "src": "/fondos/543/aficion-1.webp",
-    "ancho": 480,
-    "alto": 638
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/543/estadio-1.webp",
-    "ancho": 399,
-    "alto": 501
-   },
-   {
-    "src": "/fondos/543/estadio-2.webp",
-    "ancho": 547,
-    "alto": 365
+    "src": "/fondos/543/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1067
    }
   ],
   "emblema": [
@@ -155,18 +115,11 @@
   ]
  },
  "538": {
-  "aficion": [
-   {
-    "src": "/fondos/538/aficion-1.webp",
-    "ancho": 638,
-    "alto": 480
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/538/estadio-1.webp",
-    "ancho": 738,
-    "alto": 414
+    "src": "/fondos/538/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 757
    }
   ],
   "emblema": [
@@ -185,18 +138,11 @@
   ]
  },
  "544": {
-  "aficion": [
-   {
-    "src": "/fondos/544/aficion-1.webp",
-    "ancho": 738,
-    "alto": 414
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/544/estadio-1.webp",
-    "ancho": 501,
-    "alto": 501
+    "src": "/fondos/544/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1200
    }
   ],
   "emblema": [
@@ -215,18 +161,11 @@
   ]
  },
  "797": {
-  "aficion": [
-   {
-    "src": "/fondos/797/aficion-1.webp",
-    "ancho": 704,
-    "alto": 435
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/797/estadio-1.webp",
-    "ancho": 733,
-    "alto": 417
+    "src": "/fondos/797/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 594
    }
   ],
   "emblema": [
@@ -245,13 +184,6 @@
   ]
  },
  "540": {
-  "aficion": [
-   {
-    "src": "/fondos/540/aficion-1.webp",
-    "ancho": 678,
-    "alto": 452
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/540/emblema-1.webp",
@@ -261,9 +193,9 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/540/estadio-1.webp",
-    "ancho": 738,
-    "alto": 306
+    "src": "/fondos/540/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1067
    }
   ],
   "silueta": [
@@ -275,13 +207,6 @@
   ]
  },
  "546": {
-  "aficion": [
-   {
-    "src": "/fondos/546/aficion-1.webp",
-    "ancho": 716,
-    "alto": 428
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/546/emblema-1.webp",
@@ -296,14 +221,9 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/546/estadio-1.webp",
-    "ancho": 738,
-    "alto": 414
-   },
-   {
-    "src": "/fondos/546/estadio-2.webp",
-    "ancho": 1312,
-    "alto": 860
+    "src": "/fondos/546/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1200
    }
   ],
   "silueta": [
@@ -317,16 +237,9 @@
  "539": {
   "estadio": [
    {
-    "src": "/fondos/539/estadio-1.webp",
-    "ancho": 547,
-    "alto": 365
-   }
-  ],
-  "aficion": [
-   {
-    "src": "/fondos/539/aficion-1.webp",
-    "ancho": 738,
-    "alto": 414
+    "src": "/fondos/539/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1202
    }
   ],
   "emblema": [
@@ -345,18 +258,11 @@
   ]
  },
  "541": {
-  "aficion": [
-   {
-    "src": "/fondos/541/aficion-1.webp",
-    "ancho": 738,
-    "alto": 399
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/541/estadio-1.webp",
-    "ancho": 360,
-    "alto": 448
+    "src": "/fondos/541/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 900
    }
   ],
   "emblema": [
@@ -375,13 +281,6 @@
   ]
  },
  "535": {
-  "aficion": [
-   {
-    "src": "/fondos/535/aficion-1.webp",
-    "ancho": 678,
-    "alto": 452
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/535/emblema-1.webp",
@@ -391,9 +290,9 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/535/estadio-1.webp",
-    "ancho": 250,
-    "alto": 141
+    "src": "/fondos/535/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 900
    }
   ],
   "silueta": [
@@ -405,18 +304,11 @@
   ]
  },
  "727": {
-  "aficion": [
-   {
-    "src": "/fondos/727/aficion-1.webp",
-    "ancho": 547,
-    "alto": 365
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/727/estadio-1.webp",
-    "ancho": 597,
-    "alto": 335
+    "src": "/fondos/727/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1067
    }
   ],
   "emblema": [
@@ -435,13 +327,6 @@
   ]
  },
  "4665": {
-  "aficion": [
-   {
-    "src": "/fondos/4665/aficion-1.webp",
-    "ancho": 647,
-    "alto": 473
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/4665/emblema-1.webp",
@@ -451,9 +336,9 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/4665/estadio-1.webp",
-    "ancho": 554,
-    "alto": 554
+    "src": "/fondos/4665/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1062
    }
   ],
   "silueta": [
@@ -472,18 +357,11 @@
     "alto": 447
    }
   ],
-  "aficion": [
-   {
-    "src": "/fondos/728/aficion-1.webp",
-    "ancho": 638,
-    "alto": 480
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/728/estadio-1.webp",
-    "ancho": 702,
-    "alto": 437
+    "src": "/fondos/728/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 958
    }
   ],
   "silueta": [
@@ -495,13 +373,6 @@
   ]
  },
  "548": {
-  "aficion": [
-   {
-    "src": "/fondos/548/aficion-1.webp",
-    "ancho": 597,
-    "alto": 335
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/548/emblema-1.webp",
@@ -511,9 +382,9 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/548/estadio-1.webp",
-    "ancho": 738,
-    "alto": 414
+    "src": "/fondos/548/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1200
    }
   ],
   "silueta": [
@@ -525,13 +396,6 @@
   ]
  },
  "536": {
-  "aficion": [
-   {
-    "src": "/fondos/536/aficion-1.webp",
-    "ancho": 738,
-    "alto": 414
-   }
-  ],
   "emblema": [
    {
     "src": "/fondos/536/emblema-1.webp",
@@ -541,9 +405,9 @@
   ],
   "estadio": [
    {
-    "src": "/fondos/536/estadio-1.webp",
-    "ancho": 597,
-    "alto": 335
+    "src": "/fondos/536/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1200
    }
   ],
   "silueta": [
@@ -555,18 +419,11 @@
   ]
  },
  "532": {
-  "aficion": [
-   {
-    "src": "/fondos/532/aficion-1.webp",
-    "ancho": 738,
-    "alto": 384
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/532/estadio-1.webp",
-    "ancho": 330,
-    "alto": 220
+    "src": "/fondos/532/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 1200
    }
   ],
   "emblema": [
@@ -592,18 +449,11 @@
     "alto": 442
    }
   ],
-  "aficion": [
-   {
-    "src": "/fondos/533/aficion-1.webp",
-    "ancho": 678,
-    "alto": 452
-   }
-  ],
   "estadio": [
    {
-    "src": "/fondos/533/estadio-1.webp",
-    "ancho": 329,
-    "alto": 186
+    "src": "/fondos/533/estadio-libre.webp",
+    "ancho": 1600,
+    "alto": 900
    }
   ],
   "silueta": [
