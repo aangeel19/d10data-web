@@ -3,7 +3,7 @@
 //   - /datos/*.json y la página: red primero (siempre lo último) y, si no hay red, lo último guardado.
 //   - iconos, escudos y fondos: caché primero, se van guardando según se ven.
 // No toca nada de otros dominios (Supabase, Google): las cuentas siempre van por red.
-const VERSION = "d10-v2";
+const VERSION = "d10-v3";
 const ESTATICO = `${VERSION}-estatico`;
 const DATOS = `${VERSION}-datos`;
 
@@ -49,7 +49,8 @@ self.addEventListener("fetch", (e) => {
     e.respondWith(redPrimero(req, ESTATICO, "/"));
     return;
   }
-  if (url.pathname.startsWith("/datos/")) { e.respondWith(redPrimero(req, DATOS)); return; }
+  // (12 oct) la lista de fondos y los créditos cambian: red primero (con caché primero se quedaban las fotos viejas)
+  if (url.pathname.startsWith("/datos/") || url.pathname.endsWith(".json")) { e.respondWith(redPrimero(req, DATOS)); return; }
   if (url.pathname.startsWith("/assets/") || url.pathname.startsWith("/escudos/") || url.pathname.startsWith("/fondos/")
       || /\.(png|svg|webp|jpg|woff2?)$/.test(url.pathname)) {
     e.respondWith(cachePrimero(req));
