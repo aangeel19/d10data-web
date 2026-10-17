@@ -432,6 +432,15 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Firenze,_stadio_artemio_franchi,_campo_da_gioco,_10,0.jpg"
  },
  {
+  "equipo_id": 512,
+  "equipo": "Frosinone",
+  "estadio": "Stadio Benito Stirpe",
+  "autor": "Emiliano Francone",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Benito_Stirpe_Frosinone_Foggia_pubblico_coreografia_curva_Nord.jpg"
+ },
+ {
   "equipo_id": 36,
   "equipo": "Fulham",
   "estadio": "Craven Cottage",
@@ -763,6 +772,15 @@
   "licencia": "CC BY-SA 3.0 de",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Paris_Stade_S%C3%A9bastien_Charl%C3%A9ty.jpg"
+ },
+ {
+  "equipo_id": 85,
+  "equipo": "Paris Saint Germain",
+  "estadio": "Parc des Princes",
+  "autor": "Agence Rol",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Equipe_de_football_compos%C3%A9e_de_membres_de_l%27Association_sportive_fran%C3%A7aise,_match_au_Parc_des_Princes_du_1er_octobre_1916_-_btv1b6952479m.jpg"
  },
  {
   "equipo_id": 523,
