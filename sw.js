@@ -1,9 +1,9 @@
 // Service worker de D10 (PWA, 9 oct 2026). Hace que la web abra rápido y también sin conexión:
 //   - /assets/* (JS y CSS con huella en el nombre, no cambian nunca): caché primero.
 //   - /datos/*.json y la página: red primero (siempre lo último) y, si no hay red, lo último guardado.
-//   - iconos, escudos y fondos: caché primero, se van guardando según se ven.
+//   - iconos y fotos de fondo: caché primero, se van guardando según se ven (los .json de /fondos/, red primero).
 // No toca nada de otros dominios (Supabase, Google): las cuentas siempre van por red.
-const VERSION = "d10-v2";
+const VERSION = "d10-v3";   // (17 oct) v3: los .json de /fondos/ (créditos y lista de fotos) van por red primero
 const ESTATICO = `${VERSION}-estatico`;
 const DATOS = `${VERSION}-datos`;
 
@@ -49,7 +49,10 @@ self.addEventListener("fetch", (e) => {
     e.respondWith(redPrimero(req, ESTATICO, "/"));
     return;
   }
-  if (url.pathname.startsWith("/datos/")) { e.respondWith(redPrimero(req, DATOS)); return; }
+  // (17 oct) también /fondos/*.json: si iban "caché primero", los créditos de las fotos nuevas no llegaban nunca al móvil
+  if (url.pathname.startsWith("/datos/") || (url.pathname.startsWith("/fondos/") && url.pathname.endsWith(".json"))) {
+    e.respondWith(redPrimero(req, DATOS)); return;
+  }
   if (url.pathname.startsWith("/assets/") || url.pathname.startsWith("/escudos/") || url.pathname.startsWith("/fondos/")
       || /\.(png|svg|webp|jpg|woff2?)$/.test(url.pathname)) {
     e.respondWith(cachePrimero(req));
