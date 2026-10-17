@@ -1,0 +1,1 @@
+import{a as e}from"./jsx-runtime-Bqiy6Xjn.js";var t=e({leerConfig:()=>r}),n=null;function r(){return n??=(async()=>{try{let e=await fetch(`/config.json`,{cache:`no-store`});return e.ok?await e.json():{}}catch{return{}}})(),n}export{r as n,t};
