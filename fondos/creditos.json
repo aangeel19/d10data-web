@@ -36,6 +36,15 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:6092c97fa861df960efb2efd_Estadio-Murube-1.jpg"
  },
  {
+  "equipo_id": 497,
+  "equipo": "AS Roma",
+  "estadio": "Stadio Olimpico",
+  "autor": "Messapi, cropped by Blackcat",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg"
+ },
+ {
   "equipo_id": 542,
   "equipo": "Alaves",
   "estadio": "Estadio de Mendizorroza",
@@ -79,15 +88,6 @@
   "licencia": "CC BY-SA 3.0 de",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg"
- },
- {
-  "equipo_id": 497,
-  "equipo": "AS Roma",
-  "estadio": "Stadio Olimpico",
-  "autor": "Messapi, cropped by Blackcat",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg"
  },
  {
   "equipo_id": 66,
@@ -252,15 +252,6 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:CS-NUM.JPG"
  },
  {
-  "equipo_id": 9571,
-  "equipo": "Celta de Vigo II",
-  "estadio": "Campo de Fútbol Municipal de Barreiro",
-  "autor": "Josiii1971",
-  "licencia": "Public domain",
-  "licencia_url": "",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_municipal_de_Barreiro.jpg"
- },
- {
   "equipo_id": 538,
   "equipo": "Celta Vigo",
   "estadio": "Estadio Abanca-Balaídos",
@@ -268,6 +259,15 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg"
+ },
+ {
+  "equipo_id": 9571,
+  "equipo": "Celta de Vigo II",
+  "estadio": "Campo de Fútbol Municipal de Barreiro",
+  "autor": "Josiii1971",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_municipal_de_Barreiro.jpg"
  },
  {
   "equipo_id": 49,
@@ -414,15 +414,6 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Veltins_Arena_by_Arne_Mueseler.jpg"
  },
  {
-  "equipo_id": 502,
-  "equipo": "Fiorentina",
-  "estadio": "Stadio Artemio Franchi",
-  "autor": "Sailko",
-  "licencia": "CC BY 3.0",
-  "licencia_url": "https://creativecommons.org/licenses/by/3.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Firenze,_stadio_artemio_franchi,_campo_da_gioco,_10,0.jpg"
- },
- {
   "equipo_id": 164,
   "equipo": "FSV Mainz 05",
   "estadio": "MEWA ARENA",
@@ -430,6 +421,15 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Mewa_Arena1.jpg"
+ },
+ {
+  "equipo_id": 502,
+  "equipo": "Fiorentina",
+  "estadio": "Stadio Artemio Franchi",
+  "autor": "Sailko",
+  "licencia": "CC BY 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Firenze,_stadio_artemio_franchi,_campo_da_gioco,_10,0.jpg"
  },
  {
   "equipo_id": 36,
@@ -774,6 +774,15 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Ennio_Tardini_2026.jpg"
  },
  {
+  "equipo_id": 173,
+  "equipo": "RB Leipzig",
+  "estadio": "Red Bull Arena",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Leipzig_stadium.jpg"
+ },
+ {
   "equipo_id": 4665,
   "equipo": "Racing Santander",
   "estadio": "Campos de Sport de El Sardinero",
@@ -790,15 +799,6 @@
   "licencia": "CC BY 2.5 es",
   "licencia_url": "https://creativecommons.org/licenses/by/2.5/es/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_de_Vallecas.jpg"
- },
- {
-  "equipo_id": 173,
-  "equipo": "RB Leipzig",
-  "estadio": "Red Bull Arena",
-  "autor": "Arne Müseler",
-  "licencia": "CC BY-SA 3.0 de",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Leipzig_stadium.jpg"
  },
  {
   "equipo_id": 543,
@@ -846,24 +846,6 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Roazhon_Park_20190814.jpg"
  },
  {
-  "equipo_id": 9593,
-  "equipo": "Sabadell",
-  "estadio": "Estadi de la Nova Creu Alta",
-  "autor": "Cristian Garcia",
-  "licencia": "CC BY-SA 3.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Nova_Creu_Alta.jpg"
- },
- {
-  "equipo_id": 488,
-  "equipo": "Sassuolo",
-  "estadio": "MAPEI Stadium - Città del Tricolore",
-  "autor": "Vincenzo.togni",
-  "licencia": "CC BY 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Das_Mapei_Stadium_von_Reggio_nell%60Emilia_(2026).jpg"
- },
- {
   "equipo_id": 160,
   "equipo": "SC Freiburg",
   "estadio": "Europa-Park Stadion",
@@ -880,6 +862,33 @@
   "licencia": "CC BY 2.0 de",
   "licencia_url": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Paderborn_paragon_arena_2.jpg"
+ },
+ {
+  "equipo_id": 1660,
+  "equipo": "SV Elversberg",
+  "estadio": "URSAPHARM-Arena an der Kaiserlinde",
+  "autor": "MüllerFrankElversberg",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg"
+ },
+ {
+  "equipo_id": 9593,
+  "equipo": "Sabadell",
+  "estadio": "Estadi de la Nova Creu Alta",
+  "autor": "Cristian Garcia",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Nova_Creu_Alta.jpg"
+ },
+ {
+  "equipo_id": 488,
+  "equipo": "Sassuolo",
+  "estadio": "MAPEI Stadium - Città del Tricolore",
+  "autor": "Vincenzo.togni",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Das_Mapei_Stadium_von_Reggio_nell%60Emilia_(2026).jpg"
  },
  {
   "equipo_id": 536,
@@ -925,15 +934,6 @@
   "licencia": "CC BY-SA 3.0 de",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Sunderland_stadium_of_light.jpg"
- },
- {
-  "equipo_id": 1660,
-  "equipo": "SV Elversberg",
-  "estadio": "URSAPHARM-Arena an der Kaiserlinde",
-  "autor": "MüllerFrankElversberg",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg"
  },
  {
   "equipo_id": 719,
