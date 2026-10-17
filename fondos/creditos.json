@@ -1,5 +1,41 @@
 [
  {
+  "equipo_id": 192,
+  "equipo": "1. FC Köln",
+  "estadio": "RheinEnergieSTADION",
+  "autor": "Superbass",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2022-02-27-Rheinenergiestadion_Ukraine-7794.jpg"
+ },
+ {
+  "equipo_id": 167,
+  "equipo": "1899 Hoffenheim",
+  "estadio": "PreZero Arena",
+  "autor": "PreZero",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:PreZero_Arena_wiki.jpg"
+ },
+ {
+  "equipo_id": 489,
+  "equipo": "AC Milan",
+  "estadio": "Stadio Giuseppe Meazza",
+  "autor": "Vasil Evlogiev",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Curva_sud_Milano_San_Siro_-_Milan_vs_Liverpool_7_december_2021.jpg"
+ },
+ {
+  "equipo_id": 10139,
+  "equipo": "AD Ceuta FC",
+  "estadio": "Estadio Municipal Alfonso Murube",
+  "autor": "Football Stadiums",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:6092c97fa861df960efb2efd_Estadio-Murube-1.jpg"
+ },
+ {
   "equipo_id": 542,
   "equipo": "Alaves",
   "estadio": "Estadio de Mendizorroza",
@@ -7,6 +43,69 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Mendizorrotza_diciembre_2021.jpg"
+ },
+ {
+  "equipo_id": 722,
+  "equipo": "Albacete",
+  "estadio": "Estadio Carlos Belmonte",
+  "autor": "D7ckon",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_Carlos_Belmonte_(2019).jpg"
+ },
+ {
+  "equipo_id": 723,
+  "equipo": "Almeria",
+  "estadio": "Power Horse Stadium – Estadio de los Juegos Mediterráneos",
+  "autor": "JMAG 08",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:PowerHorseStadium.jpg"
+ },
+ {
+  "equipo_id": 77,
+  "equipo": "Angers",
+  "estadio": "Stade Raymond-Kopa",
+  "autor": "M. Mouchoir",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stade_Jean_Bouin_Angers_2.JPG"
+ },
+ {
+  "equipo_id": 42,
+  "equipo": "Arsenal",
+  "estadio": "Emirates Stadium",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg"
+ },
+ {
+  "equipo_id": 497,
+  "equipo": "AS Roma",
+  "estadio": "Stadio Olimpico",
+  "autor": "Messapi, cropped by Blackcat",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg"
+ },
+ {
+  "equipo_id": 66,
+  "equipo": "Aston Villa",
+  "estadio": "Villa Park",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Birmingham_aston_villa_park_stadium.jpg"
+ },
+ {
+  "equipo_id": 499,
+  "equipo": "Atalanta",
+  "estadio": "Gewiss Stadium",
+  "autor": "Vincenzo.togni",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:The_outside_of_the_Gewiss_Stadium_in_2020.jpg"
  },
  {
   "equipo_id": 531,
@@ -27,6 +126,15 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Atleti_vs_Villarreal_-_September_2025.jpg"
  },
  {
+  "equipo_id": 108,
+  "equipo": "Auxerre",
+  "estadio": "Stade de l'Abbé Deschamps",
+  "autor": "YoyoAJA89",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Panorama_du_Stade_de_l%27Abb%C3%A9_Deschamps.png"
+ },
+ {
   "equipo_id": 529,
   "equipo": "Barcelona",
   "estadio": "Spotify Camp Nou",
@@ -34,6 +142,123 @@
   "licencia": "CC BY 2.0",
   "licencia_url": "https://creativecommons.org/licenses/by/2.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Camp_Nou_aerial.jpg"
+ },
+ {
+  "equipo_id": 168,
+  "equipo": "Bayer Leverkusen",
+  "estadio": "BayArena",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Bayarena_Leverkusen_2020.jpg"
+ },
+ {
+  "equipo_id": 157,
+  "equipo": "Bayern München",
+  "estadio": "Allianz Arena",
+  "autor": "2015 Michael 2015",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Allianz_Arena_2008-02-09.jpg"
+ },
+ {
+  "equipo_id": 500,
+  "equipo": "Bologna",
+  "estadio": "Stadio Renato Dall'Ara",
+  "autor": "Beric Dondarrion",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Dall%27Ara_01-02-2020.jpg"
+ },
+ {
+  "equipo_id": 165,
+  "equipo": "Borussia Dortmund",
+  "estadio": "SIGNAL IDUNA PARK",
+  "autor": "Sandro Halank, Wikimedia Commons",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2022-11-11_Borussia_Dortund_II_gegen_FC_Erzgebirge_Aue_(3._Liga_2022-23)_by_Sandro_Halank%E2%80%93001.jpg"
+ },
+ {
+  "equipo_id": 163,
+  "equipo": "Borussia Mönchengladbach",
+  "estadio": "BORUSSIA-PARK",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:M%C3%B6nchengladbach_stadion.jpg"
+ },
+ {
+  "equipo_id": 35,
+  "equipo": "Bournemouth",
+  "estadio": "Vitality Stadium",
+  "autor": "Matthew Jackson",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Deancourt_14092013_vblackpool.jpg"
+ },
+ {
+  "equipo_id": 55,
+  "equipo": "Brentford",
+  "estadio": "Gtech Community Stadium",
+  "autor": "AndyScott",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Brentford_Community_Stadium_2020.jpg"
+ },
+ {
+  "equipo_id": 51,
+  "equipo": "Brighton",
+  "estadio": "American Express Stadium",
+  "autor": "Barbara van Cleve",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Amex_Community_Stadium.jpg"
+ },
+ {
+  "equipo_id": 9580,
+  "equipo": "Burgos",
+  "estadio": "Estadio Municipal de El Plantío",
+  "autor": "AGS1980",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:1920x1080a_31125023el-plantio-web.jpg"
+ },
+ {
+  "equipo_id": 724,
+  "equipo": "Cadiz",
+  "estadio": "JP Financial Estadio",
+  "autor": "No machine-readable author provided. Jecanre assumed (based on copyright claims).",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:EstadioCarranza1.jpg"
+ },
+ {
+  "equipo_id": 490,
+  "equipo": "Cagliari",
+  "estadio": "Unipol Domus",
+  "autor": "Sandrino 14",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Unipol_Domus_from_Distinti_2026.jpg"
+ },
+ {
+  "equipo_id": 5254,
+  "equipo": "Castellón",
+  "estadio": "Nou Estadi Castalia",
+  "autor": "Basavisaldo",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:CS-NUM.JPG"
+ },
+ {
+  "equipo_id": 9571,
+  "equipo": "Celta de Vigo II",
+  "estadio": "Campo de Fútbol Municipal de Barreiro",
+  "autor": "Josiii1971",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_municipal_de_Barreiro.jpg"
  },
  {
   "equipo_id": 538,
@@ -45,6 +270,51 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg"
  },
  {
+  "equipo_id": 49,
+  "equipo": "Chelsea",
+  "estadio": "Stamford Bridge",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:London_Stamford_Bridge.jpg"
+ },
+ {
+  "equipo_id": 895,
+  "equipo": "Como",
+  "estadio": "Stadio Giuseppe Sinigaglia",
+  "autor": "Vale93b",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Sinigaglia_Como_16-07-2025.jpg"
+ },
+ {
+  "equipo_id": 713,
+  "equipo": "Cordoba",
+  "estadio": "Estadio Nuevo Arcángel",
+  "autor": "Miguelazo84",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:ArcangelCordoba2Lega3.jpg"
+ },
+ {
+  "equipo_id": 1346,
+  "equipo": "Coventry",
+  "estadio": "The Coventry Building Society Arena",
+  "autor": "Amakuru",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Coventry_Derby_October_2021_-_1.jpg"
+ },
+ {
+  "equipo_id": 52,
+  "equipo": "Crystal Palace",
+  "estadio": "Selhurst Park",
+  "autor": "Arne Müseler from Salzburg, AT",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2023_09_09_arne_mueseler_17_18_07_00743-Verbessert-RR_(53283239217).jpg"
+ },
+ {
   "equipo_id": 544,
   "equipo": "Deportivo La Coruna",
   "estadio": "Estadio Abanca-Riazor",
@@ -52,6 +322,24 @@
   "licencia": "CC0",
   "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Estadioriazor2023.jpg"
+ },
+ {
+  "equipo_id": 545,
+  "equipo": "Eibar",
+  "estadio": "Estadio Municipal de Ipurúa",
+  "autor": "Miguelazo84",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Eibar1-0Lega20183.jpg"
+ },
+ {
+  "equipo_id": 169,
+  "equipo": "Eintracht Frankfurt",
+  "estadio": "Deutsche Bank Park",
+  "autor": "Patrik Meyer",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Deutsche_bank_park.jpg"
  },
  {
   "equipo_id": 797,
@@ -63,6 +351,15 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_del_estadio_Mart%C3%ADnez_Valero.jpg"
  },
  {
+  "equipo_id": 9692,
+  "equipo": "Eldense",
+  "estadio": "Estadio Municipal Nuevo Pepico Amat",
+  "autor": "FoxR",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Nuevo_Pepico_Amat_Elda.JPG"
+ },
+ {
   "equipo_id": 540,
   "equipo": "Espanyol",
   "estadio": "Stage Front Stadium",
@@ -70,6 +367,87 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Stage_Front_Stadium.jpg"
+ },
+ {
+  "equipo_id": 110,
+  "equipo": "Estac Troyes",
+  "estadio": "Stade de l'Aube",
+  "autor": "TaraO",
+  "licencia": "CC BY 2.5",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.5",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stade_de_l%27Aube.jpg"
+ },
+ {
+  "equipo_id": 45,
+  "equipo": "Everton",
+  "estadio": "Hill Dickinson Stadium",
+  "autor": "David Dixon",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Hill_Dickinson_Stadium,_Liverpool_Waterfront_-_geograph.org.uk_-_8170881.jpg"
+ },
+ {
+  "equipo_id": 8157,
+  "equipo": "FC Andorra",
+  "estadio": "Estadi Nacional",
+  "autor": "Walmaul",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadi_Nacional_d%E2%80%98Andorra.jpg"
+ },
+ {
+  "equipo_id": 170,
+  "equipo": "FC Augsburg",
+  "estadio": "WWK Arena",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Germany_augsburg_stadium_wwk_arena.jpg"
+ },
+ {
+  "equipo_id": 174,
+  "equipo": "FC Schalke 04",
+  "estadio": "VELTINS-Arena",
+  "autor": "Arne Müseler from Salzburg, AT",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Veltins_Arena_by_Arne_Mueseler.jpg"
+ },
+ {
+  "equipo_id": 502,
+  "equipo": "Fiorentina",
+  "estadio": "Stadio Artemio Franchi",
+  "autor": "Sailko",
+  "licencia": "CC BY 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Firenze,_stadio_artemio_franchi,_campo_da_gioco,_10,0.jpg"
+ },
+ {
+  "equipo_id": 164,
+  "equipo": "FSV Mainz 05",
+  "estadio": "MEWA ARENA",
+  "autor": "Atirador",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Mewa_Arena1.jpg"
+ },
+ {
+  "equipo_id": 36,
+  "equipo": "Fulham",
+  "estadio": "Craven Cottage",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:London_Craven_Cottage_Riverside_Stand.jpg"
+ },
+ {
+  "equipo_id": 495,
+  "equipo": "Genoa",
+  "estadio": "Stadio Comunale Luigi Ferraris",
+  "autor": "Gabriel Rinaldi",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Luigi_Ferraris_di_Genova.jpg"
  },
  {
   "equipo_id": 546,
@@ -81,6 +459,141 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Getafe0-0Lega2018.jpg"
  },
  {
+  "equipo_id": 547,
+  "equipo": "Girona",
+  "estadio": "Estadi Municipal de Montilivi",
+  "autor": "Jmsolerb",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_montilivi_02-12-2018.jpg"
+ },
+ {
+  "equipo_id": 715,
+  "equipo": "Granada CF",
+  "estadio": "Estadio Nuevo Los Cármenes",
+  "autor": "HrAd",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Los_C%C3%A1rmenes_1.jpg"
+ },
+ {
+  "equipo_id": 175,
+  "equipo": "Hamburger SV",
+  "estadio": "Volksparkstadion",
+  "autor": "Reinhard Kraasch",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:RK_1009_9831_Volksparkstadion.jpg"
+ },
+ {
+  "equipo_id": 64,
+  "equipo": "Hull City",
+  "estadio": "The MKM Stadium",
+  "autor": "NONONSENSEDEFENDING",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:MKM_Stadium_North_Stand_View.jpg"
+ },
+ {
+  "equipo_id": 505,
+  "equipo": "Inter",
+  "estadio": "Stadio Giuseppe Meazza",
+  "autor": "Milanellopv",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:San_Siro_MilanDerby1.jpg"
+ },
+ {
+  "equipo_id": 57,
+  "equipo": "Ipswich",
+  "estadio": "Portman Road",
+  "autor": "John Fielding from Norwich, UK",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Portman_Road_aerial_(cropped).jpg"
+ },
+ {
+  "equipo_id": 496,
+  "equipo": "Juventus",
+  "estadio": "Allianz Stadium",
+  "autor": "Sebleouf",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2021%E2%80%9322_UEFA_Women%27s_Champions_League_Final_in_Turin,_Italy_1.jpg"
+ },
+ {
+  "equipo_id": 534,
+  "equipo": "Las Palmas",
+  "estadio": "Estadio de Gran Canaria",
+  "autor": "Merelun",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_Gran_Canaria.jpg"
+ },
+ {
+  "equipo_id": 487,
+  "equipo": "Lazio",
+  "estadio": "Stadio Olimpico",
+  "autor": "Andrea 93",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Curva_Nord_Lazio_Elfsborg.jpg"
+ },
+ {
+  "equipo_id": 111,
+  "equipo": "Le Havre",
+  "estadio": "Stade Océane",
+  "autor": "AxelCFC",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Br%C3%A9sil_Ghana_au_Havre.jpg"
+ },
+ {
+  "equipo_id": 1298,
+  "equipo": "Le Mans",
+  "estadio": "Stade Marie-Marvingt",
+  "autor": "Broken72",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Le_mans_fc_laval.jpg"
+ },
+ {
+  "equipo_id": 867,
+  "equipo": "Lecce",
+  "estadio": "Stadio Comunale Via del Mare",
+  "autor": "La Cara Salma",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Coreografia_derby_Via_del_Mare.JPG"
+ },
+ {
+  "equipo_id": 63,
+  "equipo": "Leeds",
+  "estadio": "Elland Road",
+  "autor": "chillilogic.com",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Leeds_United_-_31559864360.jpg"
+ },
+ {
+  "equipo_id": 537,
+  "equipo": "Leganes",
+  "estadio": "Estadio Municipal de Butarque",
+  "autor": "Miguelazo84",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:CD_Legan%C3%A9s_2-0_Elche_CF_2024.jpg"
+ },
+ {
+  "equipo_id": 116,
+  "equipo": "Lens",
+  "estadio": "Stade Bollaert-Delelis",
+  "autor": "Liondartois",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Bollaert_vu_depuis_le_terril_du_11-19.JPG"
+ },
+ {
   "equipo_id": 539,
   "equipo": "Levante",
   "estadio": "Estadio Ciudad de Valencia",
@@ -88,6 +601,42 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Estadi_Ciutat_de_Val%C3%A8ncia_-_nocturna.jpg"
+ },
+ {
+  "equipo_id": 79,
+  "equipo": "Lille",
+  "estadio": "Decathlon Arena - Stade Pierre-Mauroy",
+  "autor": "Liondartois",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Lille_vs_PSG_2019_-_Stade_Pierre_Mauroy.jpg"
+ },
+ {
+  "equipo_id": 40,
+  "equipo": "Liverpool",
+  "estadio": "Anfield",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Liverpool_anfield_road_stadium.jpg"
+ },
+ {
+  "equipo_id": 97,
+  "equipo": "Lorient",
+  "estadio": "Stade du Moustoir - Yves Allainmat",
+  "autor": "NORMOTE",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stade_du_Moustoir.jpg"
+ },
+ {
+  "equipo_id": 80,
+  "equipo": "Lyon",
+  "estadio": "Groupama Stadium",
+  "autor": "Sebleouf",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Olympique_lyonnais_-_Stade_rennais,_demi-finale_de_Coupe_de_France_2019.jpg"
  },
  {
   "equipo_id": 535,
@@ -99,6 +648,96 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:IMG-20220228-WA0055.jpg"
  },
  {
+  "equipo_id": 798,
+  "equipo": "Mallorca",
+  "estadio": "Estadi Mallorca Son Moix",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Spain_mallorca_palma_stadium_Estadi_de_Son_Moix.jpg"
+ },
+ {
+  "equipo_id": 50,
+  "equipo": "Manchester City",
+  "estadio": "Etihad Stadium",
+  "autor": "Arne Müseler, cropped by Blackcat",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:City_of_Manchester_Stadium_2023_cropped.jpg"
+ },
+ {
+  "equipo_id": 33,
+  "equipo": "Manchester United",
+  "estadio": "Old Trafford",
+  "autor": "Arne Müseler from Salzburg, AT",
+  "licencia": "CC BY-SA 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2023_07_31_arne_mueseler_00060-Verbessert-RR_(53106651455).jpg"
+ },
+ {
+  "equipo_id": 81,
+  "equipo": "Marseille",
+  "estadio": "Stade Orange Vélodrome",
+  "autor": "dronepicr",
+  "licencia": "CC BY 2.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadion_Marseille_Stade_V%C3%A9lodrome_(33263196860).jpg"
+ },
+ {
+  "equipo_id": 91,
+  "equipo": "Monaco",
+  "estadio": "Stade Louis-II",
+  "autor": "V&amp;A Dudush",
+  "licencia": "CC BY 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Panoramio_-_V%26A_Dudush_-_stade_Louis_II.jpg"
+ },
+ {
+  "equipo_id": 1579,
+  "equipo": "Monza",
+  "estadio": "U-Power Stadium",
+  "autor": "Simonemb",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Brianteo_2024_(cropped).jpg"
+ },
+ {
+  "equipo_id": 492,
+  "equipo": "Napoli",
+  "estadio": "Stadio Diego Armando Maradona",
+  "autor": "Gaetano Capaldo",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Maradona_Serie_A.jpg"
+ },
+ {
+  "equipo_id": 34,
+  "equipo": "Newcastle",
+  "estadio": "St. James' Park",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Newcastle_st-james-park_stadium.jpg"
+ },
+ {
+  "equipo_id": 84,
+  "equipo": "Nice",
+  "estadio": "Allianz Riviera",
+  "autor": "Mirasol",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Allianzcoupdenvoi.jpg"
+ },
+ {
+  "equipo_id": 65,
+  "equipo": "Nottingham Forest",
+  "estadio": "The City Ground",
+  "autor": "Stadisimo",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:CityGroundFromAboveTrentBridgeCricketGround.jpg"
+ },
+ {
   "equipo_id": 727,
   "equipo": "Osasuna",
   "estadio": "Estadio El Sadar",
@@ -106,6 +745,33 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_El_Sadar.jpg"
+ },
+ {
+  "equipo_id": 718,
+  "equipo": "Oviedo",
+  "estadio": "Estadio Nuevo Carlos Tartiere",
+  "autor": "La Voz de Asturias",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Carlos_Tartiere.jpg"
+ },
+ {
+  "equipo_id": 114,
+  "equipo": "Paris FC",
+  "estadio": "Stade Charléty",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Paris_Stade_S%C3%A9bastien_Charl%C3%A9ty.jpg"
+ },
+ {
+  "equipo_id": 523,
+  "equipo": "Parma",
+  "estadio": "Stadio Ennio Tardini",
+  "autor": "Brodolò1",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Ennio_Tardini_2026.jpg"
  },
  {
   "equipo_id": 4665,
@@ -124,6 +790,15 @@
   "licencia": "CC BY 2.5 es",
   "licencia_url": "https://creativecommons.org/licenses/by/2.5/es/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_de_Vallecas.jpg"
+ },
+ {
+  "equipo_id": 173,
+  "equipo": "RB Leipzig",
+  "estadio": "Red Bull Arena",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Leipzig_stadium.jpg"
  },
  {
   "equipo_id": 543,
@@ -153,6 +828,60 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Anoeta_estadioa_31,_Donostia,_Gipuzkoa,_Euskal_Herria.jpg"
  },
  {
+  "equipo_id": 9585,
+  "equipo": "Real Sociedad II",
+  "estadio": "Instalaciones de Zubieta",
+  "autor": "Bhgh543bgf",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Anoeta_estadioa_31,_Donostia,_Gipuzkoa,_Euskal_Herria.jpg"
+ },
+ {
+  "equipo_id": 94,
+  "equipo": "Rennes",
+  "estadio": "Roazhon Park",
+  "autor": "EL Loko Foto",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Roazhon_Park_20190814.jpg"
+ },
+ {
+  "equipo_id": 9593,
+  "equipo": "Sabadell",
+  "estadio": "Estadi de la Nova Creu Alta",
+  "autor": "Cristian Garcia",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Nova_Creu_Alta.jpg"
+ },
+ {
+  "equipo_id": 488,
+  "equipo": "Sassuolo",
+  "estadio": "MAPEI Stadium - Città del Tricolore",
+  "autor": "Vincenzo.togni",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Das_Mapei_Stadium_von_Reggio_nell%60Emilia_(2026).jpg"
+ },
+ {
+  "equipo_id": 160,
+  "equipo": "SC Freiburg",
+  "estadio": "Europa-Park Stadion",
+  "autor": "Andreas Schwarzkopf",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2020-09-07_Neubau_eines_Fu%C3%9Fballstadions_f%C3%BCr_den_Sportclub_Freiburg_mit_Achim-Stocker-Stra%C3%9Fe_2_(cropped).jpg"
+ },
+ {
+  "equipo_id": 185,
+  "equipo": "SC Paderborn 07",
+  "estadio": "Home Deluxe Arena",
+  "autor": "Zefram",
+  "licencia": "CC BY 2.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Paderborn_paragon_arena_2.jpg"
+ },
+ {
   "equipo_id": 536,
   "equipo": "Sevilla",
   "estadio": "Estadio Ramón Sánchez Pizjuán",
@@ -160,6 +889,105 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:2022-10-25_1_Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_(Sevilla_FC).jpg"
+ },
+ {
+  "equipo_id": 731,
+  "equipo": "Sporting Gijon",
+  "estadio": "Estadio Municipal El Molinón",
+  "autor": "HesselinK",
+  "licencia": "CC BY-SA 3.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Interior_de_El_Molin%C3%B3n.JPG"
+ },
+ {
+  "equipo_id": 106,
+  "equipo": "Stade Brestois 29",
+  "estadio": "Stade Francis-Le Blé",
+  "autor": "Romscape",
+  "licencia": "CC0",
+  "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Vue_panoramique_du_stade_depuis_tribune_Eurodif.jpg"
+ },
+ {
+  "equipo_id": 95,
+  "equipo": "Strasbourg",
+  "estadio": "Stade de la Meinau",
+  "autor": "Xaviyeah",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:La_Meinau_en_National.jpg"
+ },
+ {
+  "equipo_id": 746,
+  "equipo": "Sunderland",
+  "estadio": "Stadium of Light",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Sunderland_stadium_of_light.jpg"
+ },
+ {
+  "equipo_id": 1660,
+  "equipo": "SV Elversberg",
+  "estadio": "URSAPHARM-Arena an der Kaiserlinde",
+  "autor": "MüllerFrankElversberg",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg"
+ },
+ {
+  "equipo_id": 719,
+  "equipo": "Tenerife",
+  "estadio": "Estadio Heliodoro Rodríguez Lopéz",
+  "autor": "JUAN BLAS tenerife",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Gradatribuna.jpg"
+ },
+ {
+  "equipo_id": 503,
+  "equipo": "Torino",
+  "estadio": "Stadio Olimpico Grande Torino",
+  "autor": "Original photo by Asgaw, cropped by Blackcat",
+  "licencia": "CC BY 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_Torino_2017_cropped.jpg"
+ },
+ {
+  "equipo_id": 47,
+  "equipo": "Tottenham",
+  "estadio": "Tottenham Hotspur Stadium",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:London_Tottenham_Hotspur_Stadium.jpg"
+ },
+ {
+  "equipo_id": 96,
+  "equipo": "Toulouse",
+  "estadio": "Stadium de Toulouse",
+  "autor": "Laurie Laberinto",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadium-Lory.jpg"
+ },
+ {
+  "equipo_id": 494,
+  "equipo": "Udinese",
+  "estadio": "Bluenergy Stadium",
+  "autor": "Matteo.favi",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:DaciArena.jpg"
+ },
+ {
+  "equipo_id": 182,
+  "equipo": "Union Berlin",
+  "estadio": "Stadion An der Alten Försterei",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Berlin_alte_f%C3%B6rsterei.jpg"
  },
  {
   "equipo_id": 532,
@@ -171,6 +999,33 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Mestalla_antes_del_partido_Valencia-Barcelona_LaLiga_2023-2024.jpg"
  },
  {
+  "equipo_id": 720,
+  "equipo": "Valladolid",
+  "estadio": "Estadio Municipal José Zorrilla",
+  "autor": "Goldorak",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Valladolid-Lugo_02-05-2022.jpg"
+ },
+ {
+  "equipo_id": 517,
+  "equipo": "Venezia",
+  "estadio": "Stadio Pierluigi Penzo",
+  "autor": "kallerna",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Pierluigi_Penzo.jpg"
+ },
+ {
+  "equipo_id": 172,
+  "equipo": "VfB Stuttgart",
+  "estadio": "MHPArena",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stuttgart_stadium.jpg"
+ },
+ {
   "equipo_id": 533,
   "equipo": "Villarreal",
   "estadio": "Estadio de la Cerámica",
@@ -178,5 +1033,14 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:ESTADIO3.jpg"
+ },
+ {
+  "equipo_id": 162,
+  "equipo": "Werder Bremen",
+  "estadio": "Weserstadion",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Germany_bremen_stadium.jpg"
  }
 ]
