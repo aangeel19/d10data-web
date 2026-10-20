@@ -3,7 +3,8 @@
 //   - /datos/*.json y la página: red primero (siempre lo último) y, si no hay red, lo último guardado.
 //   - iconos y fotos de fondo: caché primero, se van guardando según se ven (los .json de /fondos/, red primero).
 // No toca nada de otros dominios (Supabase, Google): las cuentas siempre van por red.
-const VERSION = "d10-v3";   // (17 oct) v3: los .json de /fondos/ (créditos y lista de fotos) van por red primero
+const VERSION = "d10-v4";   // (20 oct) v4: cada push enseña SIEMPRE su notificación (iOS da de baja a quien no lo hace) y globo con el número
+// const VERSION anterior = "d10-v3";   // (17 oct) v3: los .json de /fondos/ (créditos y lista de fotos) van por red primero
 const ESTATICO = `${VERSION}-estatico`;
 const DATOS = `${VERSION}-datos`;
 
@@ -62,15 +63,24 @@ self.addEventListener("fetch", (e) => {
 // Notificaciones push (11 oct 2026): las manda el Worker d10-directo cifradas (utilidades/push.ts). Si la web está
 // abierta y a la vista no se enseña nada: ya sale el aviso dentro de la página, con su sonido.
 self.addEventListener("push", (e) => {
+  // (20 oct) Antes, si la web estaba abierta, no se enseñaba nada. Eso era el fallo de "a mi amigo le llegan y a mí
+  // no": Safari (iPhone) da de baja la suscripción del que recibe varios push sin notificación visible, y Chrome
+  // termina enseñando el aviso genérico. Ahora se enseña siempre (con su "tag", así un gol nuevo sustituye al anterior
+  // del mismo partido y no se amontonan) y además, si la web está abierta, se le avisa para que actualice al momento.
   let d = {};
   try { d = e.data ? e.data.json() : {}; } catch { d = { titulo: "D10", texto: e.data?.text() ?? "" }; }
   e.waitUntil((async () => {
-    const abiertas = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
-    if (abiertas.some((c) => c.visibilityState === "visible" && c.focused !== false)) return;
+    try {
+      const abiertas = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+      for (const c of abiertas) c.postMessage({ tipo: "d10-push", datos: d });
+    } catch { /* nada */ }
     await self.registration.showNotification(d.titulo || "D10", {
       body: d.texto || "", icon: "/icono-192.png", badge: "/icono-192.png", tag: d.tag || undefined,
       data: { url: d.url || "/" }, vibrate: d.tipo === "gol" ? [150, 60, 150] : [80], renotify: !!d.tag,
+      timestamp: Date.now(),
     });
+    // globo con el número de avisos sin ver en el icono de la app (Android/iOS/PC, donde exista)
+    try { const n = (await self.registration.getNotifications()).length; if (self.navigator.setAppBadge) await self.navigator.setAppBadge(n); } catch { /* nada */ }
   })());
 });
 
@@ -80,6 +90,7 @@ self.addEventListener("push", (e) => {
 // Avisos de goles (10 oct 2026): al tocar la notificación, abre (o enfoca) la web en el partido.
 self.addEventListener("notificationclick", (e) => {
   e.notification.close();
+  e.waitUntil((async () => { try { const n = (await self.registration.getNotifications()).length; if (n) await self.navigator.setAppBadge?.(n); else await self.navigator.clearAppBadge?.(); } catch { /* nada */ } })());
   const url = e.notification.data?.url || "/";
   e.waitUntil((async () => {
     const abiertas = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
