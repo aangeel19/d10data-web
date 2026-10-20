@@ -36,15 +36,6 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:6092c97fa861df960efb2efd_Estadio-Murube-1.jpg"
  },
  {
-  "equipo_id": 497,
-  "equipo": "AS Roma",
-  "estadio": "Stadio Olimpico",
-  "autor": "Messapi, cropped by Blackcat",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg"
- },
- {
   "equipo_id": 542,
   "equipo": "Alaves",
   "estadio": "Estadio de Mendizorroza",
@@ -88,6 +79,15 @@
   "licencia": "CC BY-SA 3.0 de",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:London_Emirates_Stadium_arsenal.jpg"
+ },
+ {
+  "equipo_id": 497,
+  "equipo": "AS Roma",
+  "estadio": "Stadio Olimpico",
+  "autor": "Messapi, cropped by Blackcat",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Olimpico_2024.jpg"
  },
  {
   "equipo_id": 66,
@@ -252,15 +252,6 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:CS-NUM.JPG"
  },
  {
-  "equipo_id": 538,
-  "equipo": "Celta Vigo",
-  "estadio": "Estadio Abanca-Balaídos",
-  "autor": "BandidoBanderas",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg"
- },
- {
   "equipo_id": 9571,
   "equipo": "Celta de Vigo II",
   "estadio": "Campo de Fútbol Municipal de Barreiro",
@@ -268,6 +259,15 @@
   "licencia": "Public domain",
   "licencia_url": "",
   "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_municipal_de_Barreiro.jpg"
+ },
+ {
+  "equipo_id": 538,
+  "equipo": "Celta Vigo",
+  "estadio": "Estadio Abanca-Balaídos",
+  "autor": "BandidoBanderas",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Balaidos_hoy.jpg"
  },
  {
   "equipo_id": 49,
@@ -414,15 +414,6 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Veltins_Arena_by_Arne_Mueseler.jpg"
  },
  {
-  "equipo_id": 164,
-  "equipo": "FSV Mainz 05",
-  "estadio": "MEWA ARENA",
-  "autor": "Atirador",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Mewa_Arena1.jpg"
- },
- {
   "equipo_id": 502,
   "equipo": "Fiorentina",
   "estadio": "Stadio Artemio Franchi",
@@ -439,6 +430,15 @@
   "licencia": "CC BY-SA 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Benito_Stirpe_Frosinone_Foggia_pubblico_coreografia_curva_Nord.jpg"
+ },
+ {
+  "equipo_id": 164,
+  "equipo": "FSV Mainz 05",
+  "estadio": "MEWA ARENA",
+  "autor": "Atirador",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Mewa_Arena1.jpg"
  },
  {
   "equipo_id": 36,
@@ -780,7 +780,7 @@
   "autor": "Agence Rol",
   "licencia": "Public domain",
   "licencia_url": "",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Equipe_de_football_compos%C3%A9e_de_membres_de_l%27Association_sportive_fran%C3%A7aise,_match_au_Parc_des_Princes_du_1er_octobre_1916_-_btv1b6952479m.jpg"
+  "fuente": "https://commons.wikimedia.org/wiki/File:Equipe_de_football_compos%C3%A9e_des_meilleurs_joueurs_fran%C3%A7ais_mobilis%C3%A9s_au_20e_corps_d%27arm%C3%A9e,_match_au_Parc_des_Princes_du_1er_octobre_1916_-_btv1b69524823.jpg"
  },
  {
   "equipo_id": 523,
@@ -790,15 +790,6 @@
   "licencia": "CC0",
   "licencia_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Stadio_Ennio_Tardini_2026.jpg"
- },
- {
-  "equipo_id": 173,
-  "equipo": "RB Leipzig",
-  "estadio": "Red Bull Arena",
-  "autor": "Arne Müseler",
-  "licencia": "CC BY-SA 3.0 de",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Leipzig_stadium.jpg"
  },
  {
   "equipo_id": 4665,
@@ -817,6 +808,15 @@
   "licencia": "CC BY 2.5 es",
   "licencia_url": "https://creativecommons.org/licenses/by/2.5/es/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Estadio_de_Vallecas.jpg"
+ },
+ {
+  "equipo_id": 173,
+  "equipo": "RB Leipzig",
+  "estadio": "Red Bull Arena",
+  "autor": "Arne Müseler",
+  "licencia": "CC BY-SA 3.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Leipzig_stadium.jpg"
  },
  {
   "equipo_id": 543,
@@ -864,33 +864,6 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Roazhon_Park_20190814.jpg"
  },
  {
-  "equipo_id": 160,
-  "equipo": "SC Freiburg",
-  "estadio": "Europa-Park Stadion",
-  "autor": "Andreas Schwarzkopf",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:2020-09-07_Neubau_eines_Fu%C3%9Fballstadions_f%C3%BCr_den_Sportclub_Freiburg_mit_Achim-Stocker-Stra%C3%9Fe_2_(cropped).jpg"
- },
- {
-  "equipo_id": 185,
-  "equipo": "SC Paderborn 07",
-  "estadio": "Home Deluxe Arena",
-  "autor": "Zefram",
-  "licencia": "CC BY 2.0 de",
-  "licencia_url": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Paderborn_paragon_arena_2.jpg"
- },
- {
-  "equipo_id": 1660,
-  "equipo": "SV Elversberg",
-  "estadio": "URSAPHARM-Arena an der Kaiserlinde",
-  "autor": "MüllerFrankElversberg",
-  "licencia": "CC BY-SA 4.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg"
- },
- {
   "equipo_id": 9593,
   "equipo": "Sabadell",
   "estadio": "Estadi de la Nova Creu Alta",
@@ -907,6 +880,24 @@
   "licencia": "CC BY 4.0",
   "licencia_url": "https://creativecommons.org/licenses/by/4.0",
   "fuente": "https://commons.wikimedia.org/wiki/File:Das_Mapei_Stadium_von_Reggio_nell%60Emilia_(2026).jpg"
+ },
+ {
+  "equipo_id": 160,
+  "equipo": "SC Freiburg",
+  "estadio": "Europa-Park Stadion",
+  "autor": "Andreas Schwarzkopf",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:2020-09-07_Neubau_eines_Fu%C3%9Fballstadions_f%C3%BCr_den_Sportclub_Freiburg_mit_Achim-Stocker-Stra%C3%9Fe_2_(cropped).jpg"
+ },
+ {
+  "equipo_id": 185,
+  "equipo": "SC Paderborn 07",
+  "estadio": "Home Deluxe Arena",
+  "autor": "Zefram",
+  "licencia": "CC BY 2.0 de",
+  "licencia_url": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Paderborn_paragon_arena_2.jpg"
  },
  {
   "equipo_id": 536,
@@ -952,6 +943,15 @@
   "licencia": "CC BY-SA 3.0 de",
   "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
   "fuente": "https://commons.wikimedia.org/wiki/File:Sunderland_stadium_of_light.jpg"
+ },
+ {
+  "equipo_id": 1660,
+  "equipo": "SV Elversberg",
+  "estadio": "URSAPHARM-Arena an der Kaiserlinde",
+  "autor": "MüllerFrankElversberg",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:UrsapharmArena.jpg"
  },
  {
   "equipo_id": 719,

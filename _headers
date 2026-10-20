@@ -1,8 +1,31 @@
 # Cabeceras para Cloudflare Pages (lo mismo que hace publicar/servidor.py en local)
+# (21 oct) caché por tipo de fichero: antes TODO llevaba no-cache y el navegador volvía a preguntar por cada foto de fondo
+# y cada icono en cada visita (en el ordenador se notaba la web lenta). Ahora:
+#   /assets/*  JS y CSS con huella en el nombre: para siempre
+#   /fondos/*  fotos de estadios (con su nombre fijo): 1 día y, pasado, se enseña la guardada mientras se comprueba
+#   /datos/*   los datos: 1 minuto y luego la guardada mientras se trae la nueva (siempre al día y sin esperas)
+#   la página, el service worker, el manifest y config.json: siempre se comprueban
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
-/*
+/fondos/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/datos/*
+  Cache-Control: public, max-age=60, stale-while-revalidate=600
+/*.png
+  Cache-Control: public, max-age=86400
+/*.svg
+  Cache-Control: public, max-age=86400
+/
   Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Cache-Control: no-cache
+/config.json
+  Cache-Control: no-cache
+/*
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
