@@ -454,7 +454,7 @@
    {
     "src": "/fondos/85/estadio-1.webp",
     "ancho": 1600,
-    "alto": 1142
+    "alto": 831
    }
   ]
  },
@@ -1300,7 +1300,7 @@
    {
     "src": "/fondos/3733/estadio-1.webp",
     "ancho": 1600,
-    "alto": 1067
+    "alto": 1200
    }
   ]
  },
@@ -1796,6 +1796,15 @@
     "src": "/fondos/998/estadio-1.webp",
     "ancho": 1600,
     "alto": 1200
+   }
+  ]
+ },
+ "195": {
+  "estadio": [
+   {
+    "src": "/fondos/195/estadio-1.webp",
+    "ancho": 500,
+    "alto": 375
    }
   ]
  }

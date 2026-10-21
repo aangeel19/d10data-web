@@ -1281,10 +1281,10 @@
   "equipo_id": 85,
   "equipo": "Paris Saint Germain",
   "estadio": "Parc des Princes",
-  "autor": "Agence Rol",
-  "licencia": "Public domain",
-  "licencia_url": "",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Equipe_de_football_compos%C3%A9e_des_meilleurs_joueurs_fran%C3%A7ais_mobilis%C3%A9s_au_20e_corps_d%27arm%C3%A9e,_match_au_Parc_des_Princes_du_1er_octobre_1916_-_btv1b69524823.jpg"
+  "autor": "Chabe01",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Match_Coupe_Monde_f%C3%A9minine_football_2019_Su%C3%A8de_Canada_24_juin_2019_Parc_Princes_Paris_6.jpg"
  },
  {
   "equipo_id": 523,
@@ -1773,13 +1773,22 @@
   "fuente": "https://commons.wikimedia.org/wiki/File:Germany_bremen_stadium.jpg"
  },
  {
+  "equipo_id": 195,
+  "equipo": "Willem II",
+  "estadio": "Koning Willem II Stadion",
+  "autor": "Maarten van Esch",
+  "licencia": "Public domain",
+  "licencia_url": "",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Willem_II_stadion.jpg"
+ },
+ {
   "equipo_id": 3733,
   "equipo": "Zbrojovka Brno",
   "estadio": "Městský fotbalový stadion Srbská",
-  "autor": "Jiří Sedláček - Frettie",
-  "licencia": "CC BY-SA 3.0",
-  "licencia_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "fuente": "https://commons.wikimedia.org/wiki/File:Srbsk%C3%A1_stadium_overview_in_Brno,_Brno-city_District.jpg"
+  "autor": "EyeManCZ",
+  "licencia": "CC BY-SA 4.0",
+  "licencia_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "fuente": "https://commons.wikimedia.org/wiki/File:Brno,_stadion_Srbsk%C3%A1_-_hlavn%C3%AD_tribuna,_choreo.jpg"
  },
  {
   "equipo_id": 603,
