@@ -1,28 +1,17 @@
 {
-  "id": "/",
   "name": "D10 · predicciones de fútbol",
   "short_name": "D10",
-  "description": "Predicciones, directo, clasificaciones, equipos y jugadores de LaLiga, Premier, Serie A, Bundesliga, Ligue 1 y las competiciones europeas.",
+  "description": "Predicciones de fútbol con datos: LaLiga, Premier, Serie A, Bundesliga, Ligue 1 y más ligas de Europa, en directo.",
   "lang": "es",
-  "dir": "ltr",
-  "start_url": "/?origen=app",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui"],
   "orientation": "portrait",
   "background_color": "#0a1626",
   "theme_color": "#0a1626",
-  "categories": ["sports", "news"],
-  "launch_handler": { "client_mode": "focus-existing" },
   "icons": [
     { "src": "/icono-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icono-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
     { "src": "/icono-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
-  ],
-  "shortcuts": [
-    { "name": "Partidos de hoy", "short_name": "Hoy", "url": "/calendario?origen=atajo", "icons": [{ "src": "/icono-192.png", "sizes": "192x192" }] },
-    { "name": "Clasificación", "short_name": "Tabla", "url": "/clasificacion?origen=atajo", "icons": [{ "src": "/icono-192.png", "sizes": "192x192" }] },
-    { "name": "El Pleno", "short_name": "El Pleno", "url": "/porra?origen=atajo", "icons": [{ "src": "/icono-192.png", "sizes": "192x192" }] },
-    { "name": "Mi D10", "short_name": "Mi D10", "url": "/mi-d10?origen=atajo", "icons": [{ "src": "/icono-192.png", "sizes": "192x192" }] }
   ]
 }
