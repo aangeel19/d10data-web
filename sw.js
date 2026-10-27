@@ -62,6 +62,19 @@ self.addEventListener("fetch", (e) => {
 
 // Notificaciones push (11 oct 2026): las manda el Worker d10-directo cifradas (utilidades/push.ts). Si la web está
 // abierta y a la vista no se enseña nada: ya sale el aviso dentro de la página, con su sonido.
+// (27 oct) cada aviso vibra distinto (Android; iPhone no deja elegir la vibración ni el sonido en avisos web)
+const VIBRA = {
+  gol: [200, 80, 200, 80, 400],           // tres golpes, el último largo
+  anulado: [400, 120, 120],
+  roja: [600],                            // uno largo y seco
+  amarilla: [120, 80, 120],               // dos cortos
+  empieza: [100, 60, 100, 60, 100],       // pitido inicial: tres cortos
+  segunda: [100, 60, 300],
+  descanso: [300, 100, 100],
+  final: [300, 100, 300, 100, 600],       // pitido final: tres, el último largo
+  alineacion: [60, 40, 60],
+  pleno: [80, 60, 80], resumen: [80, 60, 80],
+};
 self.addEventListener("push", (e) => {
   // (20 oct) Antes, si la web estaba abierta, no se enseñaba nada. Eso era el fallo de "a mi amigo le llegan y a mí
   // no": Safari (iPhone) da de baja la suscripción del que recibe varios push sin notificación visible, y Chrome
@@ -76,7 +89,7 @@ self.addEventListener("push", (e) => {
     } catch { /* nada */ }
     await self.registration.showNotification(d.titulo || "D10", {
       body: d.texto || "", icon: "/icono-192.png", badge: "/icono-192.png", tag: d.tag || undefined,
-      data: { url: d.url || "/" }, vibrate: d.tipo === "gol" ? [150, 60, 150] : [80], renotify: !!d.tag,
+      data: { url: d.url || "/" }, vibrate: VIBRA[d.tipo] || [80], renotify: !!d.tag,
       timestamp: Date.now(),
     });
     // globo con el número de avisos sin ver en el icono de la app (Android/iOS/PC, donde exista)
