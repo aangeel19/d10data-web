@@ -89,7 +89,7 @@ self.addEventListener("push", (e) => {
     } catch { /* nada */ }
     await self.registration.showNotification(d.titulo || "D10", {
       body: d.texto || "", icon: "/icono-192.png", badge: "/icono-192.png", tag: d.tag || undefined,
-      data: { url: d.url || "/" }, vibrate: VIBRA[d.tipo] || [80], renotify: !!d.tag,
+      data: { url: d.url || "/" }, vibrate: VIBRA[d.tipo] || [80], renotify: d.renotify === false ? false : !!d.tag, silent: d.renotify === false,
       timestamp: Date.now(),
     });
     // globo con el número de avisos sin ver en el icono de la app (Android/iOS/PC, donde exista)
