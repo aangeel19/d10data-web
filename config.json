@@ -4,5 +4,8 @@
   "vapidPublica": "BPqSWqDPN_Pw6HkYXSx8Nh4nSBwKqWNE2cX5eEnhSYcjwZieqCozOtg3pDgP87kSG_Ac8UjikFW2xKR71utGy_E",
   "directoUrl": "https://d10-directo.angelmanuelserranomarquez.workers.dev/directo",
   "analiticaToken": "5ffd9ac9c793488e9f955a5b16d66498",
-  "sentryDsn": "https://7319c77fab10fc40d47aeca1e41d78f5@o4512271991963648.ingest.de.sentry.io/4512272012607568"
+  "sentryDsn": "https://7319c77fab10fc40d47aeca1e41d78f5@o4512271991963648.ingest.de.sentry.io/4512272012607568",
+  "admobAperturaAndroid": "ca-app-pub-6526109025558731/6450987492",
+  "anunciosActivos": false,
+  "admobAperturaIos": "ca-app-pub-6526109025558731/2625799262"
 }
