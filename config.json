@@ -9,5 +9,7 @@
   "anunciosActivos": false,
   "admobAperturaIos": "ca-app-pub-6526109025558731/2625799262",
   "directoRealtime": false,
-  "directoSondeoMs": 15000
+  "directoSondeoMs": 15000,
+  "revenuecatGoogle": "goog_YdHqybKXksLTOVlETsvHiYWGcGE",
+  "comprasActivas": true
 }
