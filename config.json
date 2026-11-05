@@ -11,5 +11,6 @@
   "directoRealtime": false,
   "directoSondeoMs": 15000,
   "revenuecatGoogle": "goog_YdHqybKXksLTOVlETsvHiYWGcGE",
-  "comprasActivas": true
+  "comprasActivas": true,
+  "appleActivo": true
 }
